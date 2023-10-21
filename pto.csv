@@ -1,0 +1,36 @@
+nome,tipo,longitude,latitude,endereco,avaliacao,horario-func,tipo-ambiente,cidade
+Restaurante Aconchegante,Restaurante,-43.1754,-22.9173,Rua das Flores,4.5,12:00-22:00,Comida Variada,São Paulo
+Café do Bairro,Café,-46.6345,-23.5568,Avenida Central,4.2,07:00-19:00,Amigável,Rio de Janeiro
+Pizzaria Saborosa,Pizzaria,-47.3667,-23.5632,Rua das Pizzas,4.7,17:00-23:00,Aconchegante,Curitiba
+Bar do Samba,Bar,-48.0711,-22.8362,Avenida do Samba,4.0,18:00-02:00,Animado,Salvador
+Restaurante da Vovó,Restaurante,-46.5918,-23.5387,Rua das Recordações,4.8,11:30-20:30,Tradicional,Porto Alegre
+Lanchonete Rápida,Lanchonete,-47.0659,-22.9083,Alameda das Delícias,3.7,08:00-21:00,Descontraído,Belo Horizonte
+Churrascaria Gaúcha,Churrascaria,-48.0351,-23.5746,Rua do Churrasco,4.9,12:00-22:30,Rústico,Florianópolis
+Café da Esquina,Café,-47.1803,-22.9144,Esquina das Aromas,4.4,07:30-18:00,Aconchegante,Brasília
+Restaurante Mexicano,Restaurante,-46.6635,-23.5679,Avenida dos Sabores,4.6,11:00-21:30,Colorido,São Paulo
+Sushi do Chef,Sushi,-47.2039,-23.6407,Rua do Sushi,4.7,18:00-23:00,Contemporâneo,Rio de Janeiro
+Cantina Italiana,Restaurante,-48.0062,-22.8121,Rua das Massas,4.3,12:30-22:30,Tradicional,Curitiba
+Bar Esportivo,Bar,-48.0642,-22.8337,Avenida dos Esportes,4.1,17:00-01:00,Animado,Salvador
+Padaria da Vila,Padaria,-46.5469,-23.4571,Rua das Baguetes,4.5,06:00-20:00,Aconchegante,Porto Alegre
+Hamburgueria Gourmet,Lanchonete,-47.0903,-22.9048,Avenida dos Sabores,4.8,11:00-23:00,Descontraído,Belo Horizonte
+Restaurante Vegetariano,Restaurante,-47.0765,-23.5067,Rua dos Vegetais,4.2,12:00-21:00,Saudável,Florianópolis
+Café do Parque,Café,-47.1897,-22.9642,Parque dos Cafés,4.6,08:00-18:30,Natureza,Brasília
+Restaurante Chinês,Restaurante,-46.6345,-23.5568,Avenida da China,4.4,11:30-21:30,Exótico,São Paulo
+Pizzaria Familiar,Pizzaria,-48.0650,-23.6160,Rua da Família,4.0,18:00-22:00,Familiar,Rio de Janeiro
+Bar do Rock,Bar,-48.0556,-22.8717,Avenida do Rock,4.7,17:00-02:00,Música ao Vivo,Curitiba
+Restaurante Elegante,Restaurante,-46.5211,-23.4137,Rua da Elegância,4.8,12:00-22:30,Chique,Salvador
+Lanchonete Rápida II,Lanchonete,-46.5953,-23.5557,Alameda dos Lanches,3.8,07:30-19:00,Descontraído,Porto Alegre
+Churrascaria Gaúcha II,Churrascaria,-48.0444,-23.5708,Rua do Churrasco II,4.9,11:30-22:00,Rústico,Belo Horizonte
+Café da Esquina II,Café,-47.1897,-22.9642,Esquina das Aromas II,4.5,07:00-18:00,Aconchegante,Florianópolis
+Restaurante Mexicano II,Restaurante,-46.5984,-23.5475,Avenida dos Sabores II,4.6,11:00-21:30,Colorido,Brasília
+Sushi do Chef II,Sushi,-47.1803,-23.5282,Rua do Sushi II,4.7,18:00-22:30,Contemporâneo,São Paulo
+Cantina Italiana II,Restaurante,-48.0650,-22.8542,Rua das Massas II,4.3,12:30-22:30,Tradicional,Rio de Janeiro
+Bar Esportivo II,Bar,-48.0366,-23.6223,Avenida dos Esportes II,4.1,17:00-01:00,Animado,Curitiba
+Padaria da Vila II,Padaria,-46.5019,-23.3920,Rua das Baguetes II,4.5,06:00-20:00,Aconchegante,Salvador
+Hamburgueria Gourmet II,Lanchonete,-47.1135,-22.9239,Avenida dos Sabores II,4.8,11:00-23:00,Descontraído,Porto Alegre
+Restaurante Vegetariano II,Restaurante,-47.0765,-23.5067,Rua dos Vegetais II,4.2,12:00-21:00,Saudável,Belo Horizonte
+Café do Parque II,Café,-47.2000,-22.9611,Parque dos Cafés II,4.6,08:00-18:30,Natureza,Florianópolis
+Restaurante Chinês II,Restaurante,-46.5344,-23.5222,Avenida da China II,4.4,11:30-21:30,Exótico,Brasília
+Pizzaria Familiar II,Pizzaria,-48.0556,-22.8717,Rua da Família II,4.0,18:00-22:00,Familiar,São Paulo
+Bar do Rock II,Bar,-48.0415,-23.6160,Avenida do Rock II,4.7,17:00-02:00,Música ao Vivo,Rio de Janeiro
+Restaurante Elegante II,Restaurante,-46.5144,-23.3933,Rua da Elegância II,4.8,12:00-22:30,Chique,Curitiba
